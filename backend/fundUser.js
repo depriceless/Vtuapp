@@ -1,7 +1,6 @@
 const mongoose = require('mongoose');
 const Wallet = require('./models/wallet');
 
-const MONGO_URI = 'mongodb+srv://vtuadmin:Depriceless12%40@vtuapp.u6pimpy.mongodb.net/VTUAPP?retryWrites=true&w=majority';
 const userId = '68af08e93757075a002c44d0';
 const amountToAdd = 5000;
 
